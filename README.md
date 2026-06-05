@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**mahnoor6643/mahnoor6643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahnoor, a Computer Science enthusiast passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
 
-Here are some ideas to get you started:
+### Currently Learning & Building With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Artificial Intelligence (AI)
+* Machine Learning
+* Deep Learning
+* Streamlit
+* Git & GitHub
+
+### Some Things I'm Working On
+
+* 🤖 AI Chatbot
+* 📄 AI Resume Analyzer
+* 🌸 Iris Flower Classification
+* 🎨 Animated Login & Registration Form
+
+My goal is to build intelligent applications and develop solutions that solve real-world problems through technology and data.
+
+### Fun Facts
+
+* 💻 Love learning new technologies
+* 🤖 Passionate about AI and Machine Learning
+* 📚 Currently exploring Deep Learning and Generative AI
+* 🚀 Always building and improving projects
+
+### Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/mahnoor-khalid8053/
+* GitHub: github.com/mahnoor6643
